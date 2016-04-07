@@ -1,3 +1,4 @@
 http://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL
 http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
 http://www.amazon.es/Clojure-Machine-Learning-Akhil-Wali/dp/1783284358
+http://scikit-learn.org/
